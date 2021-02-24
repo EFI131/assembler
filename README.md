@@ -1,9 +1,9 @@
 # assembler
-A mini assembler of an imaginary architecture - written in ansi c.
-The assembler parses andtranslates a subset of the assembly language to machine code.
+A mini assembler - written in ansi c.
+The assembler parses and translates a subset of the assembly language to a machine code.
 
-Data structures used:
-  -Linked List
-  -Stack
-  -Queue
-  -Hash Table
+#Data structures used:
+  Linked List,
+  Stack,
+  Queue,
+  Hash Table
